@@ -17,12 +17,12 @@
 
 ```bash
 # Git Bash
-git clone <本仓库URL> "$HOME/taima-workbuddy-skills"
+git clone https://github.com/Joanna-517/TM-Business-system.git "$HOME/taima-workbuddy-skills"
 bash "$HOME/taima-workbuddy-skills/sync.sh"
 ```
 ```powershell
 # PowerShell
-git clone <本仓库URL> "$env:USERPROFILE\taima-workbuddy-skills"
+git clone https://github.com/Joanna-517/TM-Business-system.git "$env:USERPROFILE\taima-workbuddy-skills"
 & "$env:USERPROFILE\taima-workbuddy-skills\sync.ps1"
 ```
 安装后**重启 WorkBuddy**，技能即出现在技能列表。
